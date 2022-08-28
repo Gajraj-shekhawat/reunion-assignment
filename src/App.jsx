@@ -7,6 +7,8 @@ function App() {
   <div className={styles.containerBox}>
   <Navbar />
   <AllRoutes/>
+
+  
   </div>
   );
 }
